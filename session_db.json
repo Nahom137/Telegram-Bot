@@ -1,0 +1,14 @@
+{
+  "sessions": [
+    {
+      "id": "1330618534:1330618534",
+      "data": {
+        "step": "ask_phoneNumber",
+        "action": "promote",
+        "fullName": "604919686",
+        "email": "sharewnah@gmail.com",
+        "phoneNumber": "604919686"
+      }
+    }
+  ]
+}
